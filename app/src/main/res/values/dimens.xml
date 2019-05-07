@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dividerLineMargin">8dp</dimen>
+    <dimen name="starDimension">20dp</dimen>
+    <dimen name="dividerLineWidth">1dp</dimen>
+    <dimen name="marginStandard">8dp</dimen>
+    <dimen name="socialIconDimension">40dp</dimen>
+    <dimen name="nameTextSize">22sp</dimen>
+    <dimen name="headerContextLeftMargin">24dp</dimen>
+    <dimen name="sectionNameTextSize">18sp</dimen>
+</resources>

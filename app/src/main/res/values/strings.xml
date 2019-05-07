@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">CVApp</string>
+    <string name="profilePicture">Profile photo</string>
+    <string name="name">Mark Jones</string>
+    <string name="jobPosition">Senior Android Developer</string>
+    <string name="phoneNumber">+385975463432</string>
+    <string name="email">markjones@mail.org</string>
+    <string name="aboutHeader">About</string>
+    <string name="aboutDescriptionText">Passionate software developer with over 5 years of experience with Android
+        development. Worked in both aspiring startups and large-scale corporations. Interested in learning new things
+        and incorporating them in private and commercial projects. Avid open-source contributor with over 5000 stars on
+        GitHub. Participated in a number of international conferences, both as a lecturer and as a panelist. Currently
+        focused on implementing machine learning alghoritms as a part of Android app.
+    </string>
+    <string name="experienceHeader">Experience</string>
+    <string name="experienceFirstEntryTime">07/2018 - 05/2019</string>
+    <string name="experienceFirstEntryPosition">Senior Android Developer</string>
+    <string name="experienceFirstEntryCompany">Google</string>
+    <string name="experienceFirstEntryDescription">Leading the development team in advancing the Android platform. Focused
+    on machine learning algorithms for handling camera object recognition.</string>
+    <string name="experienceSecondEntryTime">01/2014 - 07/2018</string>
+    <string name="experienceSecondEntryPosition">Android Team Lead</string>
+    <string name="experienceSecondEntryCompany">Swell</string>
+    <string name="experienceSecondEntryDescription">Serving as a team lead for the company\'s core Android team.
+        Overseeing the development of a groundbreaking social platform for book lovers. Acting as a project architect,
+        distributing tasks to other developers, working closely with the product team.
+    </string>
+    <string name="experienceThirdEntryTime">04/2009 - 10/2012</string>
+    <string name="experienceThirdEntryPosition">Android Developer</string>
+    <string name="experienceThirdEntryCompany">October</string>
+    <string name="experienceThirdEntryDescription">Working at a startup company aimed at providing curated, mood-oriented
+        on-demand music playlists. Progressed from junior to senior position in 3 and a half years.
+    </string>
+    <string name="projectsFirstEntryName">Summertime</string>
+    <string name="projectsHeader">Projects</string>
+    <string name="projectsFirstEntryDescription">A pet project that streams summer-themed music to your personal home
+    theater system via Chromecast, controlled by a simple Android app.</string>
+    <string name="projectsSecondEntryName">Moonlight</string>
+    <string name="projectsSecondEntryDescription">A commercial project developed with the help of a friend and his company.
+        It is a map of a night sky with informative data, that changes based on the geolocation of the user.
+    </string>
+    <string name="projectsThirdEntryName">Swans</string>
+    <string name="projectsThirdEntryDescription">A collaboration with the local startup, Swans is a simple dating app,
+        but aimed to bird lovers. Based on the type of birds that the user adds to their collection, it finds a good match
+        among other users. Unfortunately the funding went off and the whole project, although it had a couple hundred of
+        active users, was shut down.
+    </string>
+    <string name="languagesHeader">Languages</string>
+    <string name="languagesFirstEntryName">English</string>
+    <string name="languagesFirstEntryDesc">Full working proficiency</string>
+    <string name="languagesSecondEntryName">French</string>
+    <string name="languagesSecondEntryDesc">Native speaker</string>
+    <string name="languagesThirdEntryName">German</string>
+    <string name="languagesThirdEntryDesc">Elementary knowledge</string>
+    <string name="skillsHeader">Skills</string>
+    <string name="firstSkillName">Java</string>
+    <string name="skillsSecondEntryName">Kotlin</string>
+    <string name="otherDescription"> • Detail-oriented and goal-focused\n
+        • Able to function in a team and individually\n
+        • Striving for top-quality product\n
+        • Proven expertize in the field\n
+        • Driver license for both car and a motorcycle\n
+        • Eager to learn new technologies
+    </string>
+    <string name="otherHeader">Other</string>
+    <string name="socialHeader">Social</string>
+    <string name="skillThirdName">Groovy</string>
+    <string name="skillFourthName">Python</string>
+    <string name="skillFifthName">Scala</string>
+    <string name="fbIconDesc">Facebook icon</string>
+    <string name="twIconDesc">Twitter icon</string>
+    <string name="lnIconDesc">LinkedIn icon</string>
+    <string name="starFilledDesc">Filled star</string>
+    <string name="starEmptyDesc">Empty star icon</string>
+</resources>

@@ -1,0 +1,72 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorPrimaryDark">@color/primaryDarkColor</item>
+        <item name="colorAccent">@color/primaryLightColor</item>
+    </style>
+
+    <style name="Theme.AppCompat.Light.NoActionBar.FullScreen" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    
+    <style name="nameStyle" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/nameTextSize</item>
+        <item name="android:textColor">@color/primaryLightColor</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_marginLeft">@dimen/headerContextLeftMargin</item>
+        <item name="android:layout_marginTop">@dimen/marginStandard</item>
+    </style>
+
+    <style name="infoTextStyle" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@color/primaryLightColor</item>
+        <item name="android:layout_marginLeft">@dimen/headerContextLeftMargin</item>
+        <item name="android:layout_marginTop">2dp</item>
+    </style>
+    
+    <style name="headerTextStyle" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@color/accentColor</item>
+        <item name="android:textSize">@dimen/sectionNameTextSize</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:layout_marginLeft">6dp</item>
+        <item name="android:layout_marginTop">6dp</item>
+        <item name="android:layout_marginBottom">3dp</item>
+    </style>
+
+    <style name="sectionTextStyle" parent="TextAppearance.AppCompat">
+        <item name="android:layout_marginLeft">6dp</item>
+        <item name="android:layout_marginTop">3dp</item>
+        <item name="android:layout_marginBottom">6dp</item>
+    </style>
+
+    <style name="starsSize" parent="TextAppearance.AppCompat">
+        <item name="android:layout_height">@dimen/starDimension</item>
+        <item name="android:layout_width">@dimen/starDimension</item>
+        <item name="android:src">@mipmap/black_star_filled</item>
+    </style>
+
+    <style name="starsSizeEmpty" parent="TextAppearance.AppCompat">
+        <item name="android:layout_height">@dimen/starDimension</item>
+        <item name="android:layout_width">@dimen/starDimension</item>
+        <item name="android:src">@mipmap/black_star_empty</item>
+    </style>
+
+    <style name="socialIconSize" parent="TextAppearance.AppCompat">
+        <item name="android:layout_height">@dimen/socialIconDimension</item>
+        <item name="android:layout_width">@dimen/socialIconDimension</item>
+        <item name="android:layout_margin">@dimen/marginStandard</item>
+    </style>
+
+    <style name="dividerLine" parent="TextAppearance.AppCompat">
+        <item name="android:layout_width">@dimen/dividerLineWidth</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_marginStart">@dimen/dividerLineMargin</item>
+    </style>
+
+</resources>
